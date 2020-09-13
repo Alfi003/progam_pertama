@@ -2,5 +2,5 @@ Rencana Hari Ini
 - Belajar GITHUB
 - Belajar GIT
 - Belajar Template
-- Memahami Materi
+- Membuat presentasi
 - Menjelaskan Besok
